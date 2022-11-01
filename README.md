@@ -17,3 +17,4 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
+![Screenshot (13)](https://user-images.githubusercontent.com/113635622/199332398-1abed819-e890-4c90-ae04-c8b37511552d.png)
